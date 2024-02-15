@@ -1,1 +1,0 @@
-# Calculator_for_Tinkoff
