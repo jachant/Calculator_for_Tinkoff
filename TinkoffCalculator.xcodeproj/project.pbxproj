@@ -16,6 +16,8 @@
 		5C8CA69A2B7D44CB00AF6F73 /* TinkoffCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8CA6992B7D44CB00AF6F73 /* TinkoffCalculatorTests.swift */; };
 		5C8CA6A42B7D44CB00AF6F73 /* TinkoffCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8CA6A32B7D44CB00AF6F73 /* TinkoffCalculatorUITests.swift */; };
 		5C8CA6A62B7D44CB00AF6F73 /* TinkoffCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8CA6A52B7D44CB00AF6F73 /* TinkoffCalculatorUITestsLaunchTests.swift */; };
+		5C8CBF0C2B81326100F00E67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8CA6862B7D44CA00AF6F73 /* ViewController.swift */; };
+		5C8CBF0D2B81326100F00E67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8CA6862B7D44CA00AF6F73 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -268,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C8CBF0C2B81326100F00E67 /* ViewController.swift in Sources */,
 				5C8CA69A2B7D44CB00AF6F73 /* TinkoffCalculatorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,6 +279,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C8CBF0D2B81326100F00E67 /* ViewController.swift in Sources */,
 				5C8CA6A62B7D44CB00AF6F73 /* TinkoffCalculatorUITestsLaunchTests.swift in Sources */,
 				5C8CA6A42B7D44CB00AF6F73 /* TinkoffCalculatorUITests.swift in Sources */,
 			);
@@ -541,6 +545,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z2VXDMMUQR;
 				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.artemantonov.TinkoffCalculatorUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -559,6 +564,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z2VXDMMUQR;
 				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.artemantonov.TinkoffCalculatorUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";

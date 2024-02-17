@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87DE5BFF-6D87-4B51-84A8-195AE3C0829D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F46A3948-B729-4613-AF39-C1EBA3B0797D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinkoffCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "buttonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F46A3948-B729-4613-AF39-C1EBA3B0797D - 2aa8387fb5b353c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jachant/Desktop/tin/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "F46A3948-B729-4613-AF39-C1EBA3B0797D - c55187d52c3e3061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.buttonPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jachant/Desktop/tin/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "F46A3948-B729-4613-AF39-C1EBA3B0797D - c55187d52c3e3061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.buttonPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jachant/Desktop/tin/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
